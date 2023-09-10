@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{https://rodrigo5b.github.io/Pagina404/">
+    <a href="https://rodrigo5b.github.io/Pagina404/" target="_blank">
       Demo
     </a>
     <span> | </span>
-    <a href="https://https://github.com/Rodrigo5b/Pagina404">
+    <a href="https://github.com/Rodrigo5b/Pagina404">
       Solución
     </a>
     <span> | </span>
@@ -95,8 +95,8 @@ $ npm start
 -->
 ## Contacto
 
-- Website [Portfolio](https://rodrigo5b.github.io})
-- GitHub [@rodrigob5](https://github.com/Rodrigo5b})
+- Website <a href="https://rodrigo5b.github.io" target="_blank">Portafolio</a>.
+- Github <a href="https://github.com/Rodrigo5b" target="_blank">Solución</a>.
 - Gmail @bustamanterodrigo15@gmail.com
 <!--- Twitter [@your-twitter](https://{twitter.com/your-username})-->
 

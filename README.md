@@ -13,7 +13,7 @@
     </a>
     <span> | </span>
     <a href="https://{https://github.com/Rodrigo5b/Pagina404}">
-      Solution
+      Solución
     </a>
     <span> | </span>
     <a href="https://{https://github.com/Rodrigo5b/Pagina404}">
@@ -24,23 +24,23 @@
 
 <!-- TABLE OF CONTENTS -->
 
-## Table of Contents
+## Tabla de contenido
 
-- [Overview](#overview)
+- [En general](#overview)
   Página Error 404. Desafio de Devchallenge. Siempre hace falta una página error 404 por si las moscas.
-- [Built With](#built-with)
+- [Construido con](#built-with)
   HTML - CSS
-- [Features](#features)
+- [Características](#features)
   Ninguna en este caso.
-- [How to use](#how-to-use)
+- [Cómo usar](#how-to-use)
   Una opción para mostrar cuando la página que solicite el usuario no exista.
-- [Contact](#contact)
+- [Contacto](#contact)
   bustamanterodrigo15@gmail.com
-- [Acknowledgements](#acknowledgements)
+- [Agradecimientos](#acknowledgements)
   A Alura Latam ya que hice un curso de programación de Desarrollo Front End y gracias a ellos puedo hacer este tipo de páginas.
 <!-- OVERVIEW -->
 
-## Overview
+## Screen
 
 ![screenshot](https://i.postimg.cc/QCLLmXhL/Screenshot-1.png)
 
@@ -84,18 +84,19 @@ $ npm install
 # Run the app
 $ npm start
 ```
+<!--
+## Agradecimientos
 
-## Acknowledgements
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
+ This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale 
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
 - [Node.js](https://nodejs.org/)
 - [Marked - a markdown parser](https://github.com/chjj/marked)
+-->
+## Contacto
 
-## Contact
-
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [Portfolio](https://rodrigo5b.github.io/})
+- GitHub [@rodrigob5](https://{github.com/your-usermame})
+- Gmail [@bustamanterodrigo15@gmail.com]
+<!--- Twitter [@your-twitter](https://{twitter.com/your-username})-->
 

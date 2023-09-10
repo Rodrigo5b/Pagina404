@@ -95,8 +95,8 @@ $ npm start
 -->
 ## Contacto
 
-- Website [Portfolio]({https://rodrigo5b.github.io/})
-- GitHub [@rodrigob5]({https://github.com/Rodrigo5b})
-- Gmail [@bustamanterodrigo15@gmail.com]
+- Website [Portfolio](https://rodrigo5b.github.io/})
+- GitHub [@rodrigob5](https://github.com/Rodrigo5b})
+- Gmail @bustamanterodrigo15@gmail.com
 <!--- Twitter [@your-twitter](https://{twitter.com/your-username})-->
 
